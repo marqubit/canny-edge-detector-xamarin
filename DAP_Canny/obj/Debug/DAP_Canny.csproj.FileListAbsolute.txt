@@ -1,0 +1,14 @@
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\bin\Debug\DAP_Canny.dll
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\bin\Debug\DAP_Canny.pdb
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\bin\Debug\DAP_Canny.DAP_Canny.apk
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\bin\Debug\DAP_Canny.DAP_Canny-Signed.apk
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\DAP_Canny.csproj.CoreCompileInputs.cache
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\DAP_Canny.dll
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\DAP_Canny.pdb
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\android\bin\DAP_Canny.DAP_Canny.apk
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\res\layout\main.xml
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\res\values\strings.xml
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\R.cs.flag
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\uploadflags.txt
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\bin\Debug\DAP_Canny.dll.mdb
+C:\Users\sagit\Documents\Visual Studio 2017\Projects\DAP_Canny\DAP_Canny\obj\Debug\android\assets\DAP_Canny.dll.mdb

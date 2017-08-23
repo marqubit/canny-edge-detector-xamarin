@@ -1,0 +1,4 @@
+DAP_Canny.MainActivity, DAP_Canny;md510ca773d42609af4b050b7d25c3f1132.MainActivity
+DAP_Canny.MainActivity, DAP_Canny, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md510ca773d42609af4b050b7d25c3f1132.MainActivity
+DAP_Canny.MainActivity;md510ca773d42609af4b050b7d25c3f1132.MainActivity
+dap_canny.MainActivity;md510ca773d42609af4b050b7d25c3f1132.MainActivity
